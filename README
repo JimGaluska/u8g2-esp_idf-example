@@ -1,0 +1,12 @@
+This repository is nothing more than Neil Kolban's U8G2 example for the ESP-IDF turned into a turnkey project.
+
+Make sure you clone this repository with:
+
+       git clone --recursive https://github.com/JimGaluska/u8g2-esp_idf-example.git
+
+If you don't use --recursive, then you won't automatically get the U8G2 library.
+----------------------------------------------------------------------------------
+Link to original example: https://github.com/nkolban/esp32-snippets.git
+Link to U8G2 project: https://github.com/olikraus/u8g2
+----------------------------------------------------------------------------------
+
